@@ -31,8 +31,8 @@ This project demonstrates instance segmentation using a pre-trained **Mask R-CNN
 
 ### 1. Clone the Repository (if applicable)
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/SamanBarahoie/R-CNN.git
+
 ```
 
 ### 2. Install Dependencies
